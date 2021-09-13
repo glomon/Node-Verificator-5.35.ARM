@@ -1,2 +1,4 @@
-# Node-Verificator-5.35.ARM
-Metahash Node-Verificator-5.35.ARM
+# Node-Verificator project
+This repository contains Node-Verificator's source code written in C++.
+
+For more details about Node-Verificator installation see [wiki](https://github.com/metahashorg/Node-Verificator/wiki).

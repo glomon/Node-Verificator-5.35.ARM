@@ -1,0 +1,5 @@
+add_subdirectory(curl_pp)
+add_subdirectory(http_server)
+add_subdirectory(moodycamel)
+add_subdirectory(rapidjson)
+add_subdirectory(xxhash)
